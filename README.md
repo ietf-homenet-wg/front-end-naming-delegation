@@ -4,7 +4,7 @@ This is the working area for the IETF [HOMENET Working Group](https://datatracke
 
 * [Editor's Copy](https://ietf-homenet-wg.github.io/front-end-naming-delegation/draft-ietf-homenet-front-end-naming-delegation.html)
 * [Working Group Draft](https://tools.ietf.org/html/draft-ietf-homenet-front-end-naming-delegation)
-* [Compare Editor's Copy to Working Group Draft](https://ietf-homenet-wg.github.io/front-end-naming-delegation/#go.draft-ietf-homenet-front-end-naming-delegation.diff)
+<!-- * [Compare Editor's Copy to Working Group Draft](https://ietf-homenet-wg.github.io/front-end-naming-delegation/draft-ietf-homenet-front-end-naming-delegation.diff) -->
 
 ## Building the Draft
 
