@@ -2,7 +2,7 @@
 
 This is the working area for the IETF [HOMENET Working Group](https://datatracker.ietf.org/wg/homenet/documents/) Internet-Draft, "Outsourcing Home Network Authoritative Naming Service".
 
-* [Editor's Copy](https://ietf-homenet-wg.github.io/front-end-naming-delegation/#go.draft-ietf-homenet-front-end-naming-delegation.html)
+* [Editor's Copy](https://ietf-homenet-wg.github.io/front-end-naming-delegation/draft-ietf-homenet-front-end-naming-delegation.html)
 * [Working Group Draft](https://tools.ietf.org/html/draft-ietf-homenet-front-end-naming-delegation)
 * [Compare Editor's Copy to Working Group Draft](https://ietf-homenet-wg.github.io/front-end-naming-delegation/#go.draft-ietf-homenet-front-end-naming-delegation.diff)
 
